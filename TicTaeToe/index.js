@@ -1,4 +1,5 @@
-console.log("Welcome to tic tat");
+console.log("Welcome to tic tac toe");
+console.log("Hi i am Your dad");
 let music = new Audio("music.mp3")
 let Audioturn = new Audio("gameover.mp3")
 let gameover = new Audio("gameover.mp3")
